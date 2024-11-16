@@ -1,0 +1,21 @@
+{
+  "name": "Flappy Nouns #7",
+  "description": "Flappy Nouns - Token",
+  "image": "ipfs://QmXfCEjPUPp14bWqki1bEyeFFwXbzSWDq7TLhBxGqMAmBw/7.png",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Yellow"
+    },
+
+    {
+      "trait_type": "Glasses",
+      "value": "Orange"
+    },
+
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    },
+  ]
+}

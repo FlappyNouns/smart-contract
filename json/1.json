@@ -1,17 +1,16 @@
 {
-  "name": "Flappy Nouns #0",
+  "name": "Flappy Nouns #1",
   "description": "Flappy Nouns - Token",
-  "image": "ipfs://QmXfCEjPUPp14bWqki1bEyeFFwXbzSWDq7TLhBxGqMAmBw/0.png",
+  "image": "ipfs://QmXfCEjPUPp14bWqki1bEyeFFwXbzSWDq7TLhBxGqMAmBw/1.png",
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Yellow"
+      "value": "Blue"
     },
 
     {
       "trait_type": "Glasses",
       "value": "Red"
     }
-
   ]
 }

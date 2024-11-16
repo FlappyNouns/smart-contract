@@ -1,0 +1,21 @@
+{
+  "name": "Flappy Nouns #6",
+  "description": "Flappy Nouns - Token",
+  "image": "ipfs://QmXfCEjPUPp14bWqki1bEyeFFwXbzSWDq7TLhBxGqMAmBw/6.png",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Purple"
+    },
+
+    {
+      "trait_type": "Glasses",
+      "value": "Red"
+    },
+
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    }
+  ]
+}
